@@ -19,8 +19,7 @@ If you have any feedback, please reach out to us at burockcan2309@gmail.com
 - [@BcanGRG](https://www.github.com/BcanGRG)
 
 ## Application APK
-![horizontalpager](https://github.com/BcanGRG/AutoSlidingPagerWithAnimation/assets/57682748/c9200838-b9bc-49d4-b05d-1bd4a7eee24f)
-
+![horizontalpager (1)](https://github.com/BcanGRG/AutoSlidingPagerWithAnimation/assets/57682748/81ce4984-bc3f-43fa-a484-3f66952885f7)
 
 
 
